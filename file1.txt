@@ -1,3 +1,0 @@
-we are learning devopes 
-todays we arer learning git and github
-this line has been added in github t check git fetch command
