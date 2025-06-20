@@ -1,0 +1,5 @@
+A combination of Development (Dev) and Operations (Ops).
+
+Aims to bridge the gap between software development and IT operations.
+
+Focuses on automation, continuous delivery, and collaboration.
