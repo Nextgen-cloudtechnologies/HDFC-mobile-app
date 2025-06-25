@@ -5,4 +5,4 @@ added new line to check get command
 added this 5th line to check git pull command
 
 
-added this 5th line to check git pull command
+added this 5th line to check git pull command.
